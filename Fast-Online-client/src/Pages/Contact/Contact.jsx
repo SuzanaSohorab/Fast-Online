@@ -89,7 +89,7 @@ const Contact = () => {
                   Our Location
                 </h3>
                 <p className="text-gray-400 text-sm mt-1">
-                  Your Area, Bangladesh
+                  107 New Eskaton, Dhaka, Bangladesh
                 </p>
               </div>
             </div>
@@ -105,7 +105,7 @@ const Contact = () => {
                   Phone
                 </h3>
                 <p className="text-gray-400 text-sm mt-1">
-                  +880 1XXX-XXXXXX
+                  +880 1719912221
                 </p>
               </div>
             </div>
@@ -121,7 +121,7 @@ const Contact = () => {
                   Email
                 </h3>
                 <p className="text-gray-400 text-sm mt-1">
-                  support@fastonline.com
+                  fastonline21@gmail.com
                 </p>
               </div>
             </div>

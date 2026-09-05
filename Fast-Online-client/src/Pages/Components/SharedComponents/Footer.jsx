@@ -162,7 +162,7 @@ const Footer = () => {
             <li className="flex gap-3">
               <span className="text-yellow-400">✉️</span>
               <span>
-                support@fastonline.com
+                fastonline21@gmail.com
               </span>
             </li>
 
